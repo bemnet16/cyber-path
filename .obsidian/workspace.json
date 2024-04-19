@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "3d454d58f1326c25",
+    "type": "split",
+    "children": [
+      {
+        "id": "001c325275e2dc72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d13910e0b8a87cf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Complete beginner/cryptography/John The Ripper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2c58654a9c79df4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff80d4264dfd15ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7fc00cae6d9b88d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "d4e0e93369c910a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ssh",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c9c78912981f95ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.50418853759766
+  },
+  "right": {
+    "id": "80ef18fa53523a05",
+    "type": "split",
+    "children": [
+      {
+        "id": "81dd8523ea20e539",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf978a4df98defad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Complete beginner/cryptography/John The Ripper.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fe074c077b618dbf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Complete beginner/cryptography/John The Ripper.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "49841972d1c863bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "01effc9becfd7838",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Complete beginner/cryptography/John The Ripper.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d13910e0b8a87cf7",
+  "lastOpenFiles": [
+    "Complete beginner/Network Exploitation Basics/Network Services/FTP.md",
+    "Complete beginner/cryptography/Encryption - Crypto 101.md",
+    "Tools.md",
+    "Complete beginner/Network Exploitation Basics/nmap.md",
+    "Complete beginner/metasploit.md",
+    "Complete beginner/Network Exploitation Basics/Network Services/SMTP.md",
+    "Complete beginner/web enumeration.md",
+    "API penetration testing/API Reconnaissance.md",
+    "().md",
+    "API penetration testing/API",
+    "API penetration testing",
+    "Intro. cyber/Intro. to cyber security.md",
+    "Complete beginner/web-hacking fundamentals/upload vulnerability.md",
+    "Complete beginner/web-hacking fundamentals/burp suite.md",
+    "Complete beginner/Windows Exploitation Basics.md",
+    "Complete beginner/web-hacking fundamentals/OWASP.md",
+    "Pre security/How the web works.md",
+    "Complete beginner/Shells and Privilege Escalation/Common Linux Privesc.md",
+    "Complete beginner/web-hacking fundamentals/Untitled.md",
+    "Complete beginner/Network Exploitation Basics/Network Services/NFS.md",
+    "Complete beginner/Network Exploitation Basics/Network Services/telnet.md",
+    "Complete beginner/Network Exploitation Basics/Network Services/SMB.md",
+    "Complete beginner/cryptography/John The Ripper.md",
+    "Untitled.md",
+    "Complete beginner/Shells and Privilege Escalation/what the shell.md",
+    "Complete beginner/Shells and Privilege Escalation",
+    "Complete beginner/Windows Exploitation Basics",
+    "Complete beginner/cryptography/hashing.md",
+    "Complete beginner/cryptography",
+    "Complete beginner/Introductory researching.md",
+    "Complete beginner/Network Exploitation Basics/Network Services/MySQL.md",
+    "Complete beginner/web-hacking fundamentals/Untitled",
+    "Complete beginner/web-hacking fundamentals",
+    "Complete beginner/Network Exploitation Basics/Network Services",
+    "Pasted image 20240313102925.png",
+    "Complete beginner/Network Exploitation Basics",
+    "Intro. cyber(week 1)/Intro. defensive sec",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}
