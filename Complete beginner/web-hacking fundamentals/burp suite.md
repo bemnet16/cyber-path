@@ -51,8 +51,9 @@ Burp Suite's Intruder module is a powerful tool that allows for automated and cu
 *Positions*
 When using Burp Suite Intruder to perform an attack, the first step is to examine the positions within the request where we want to insert our payloads. These positions inform Intruder about the locations where our payloads will be introduced.
 
-*Attack type*
+*[Attack type](https://www.youtube.com/watch?v=6c4p6zXNcnY)*
 - In **Sniper** attack, we provide a set of payloads, which can be a wordlist or a range of numbers, and Intruder inserts each payload into each defined position in the request one at a time.
+    
 - The **Battering ram** attack type in Burp Suite Intruder differs from Sniper in that it places the same payload in every position simultaneously, rather than substituting each payload into each position in turn.
 - The **Pitchfork** attack type in Burp Suite Intruder is similar to having multiple Sniper attacks running simultaneously. It utilises one payload set per position (up to a maximum of 20) and iterates through them all simultaneously.
 - The **Cluster bomb** attack type in Burp Suite Intruder allows us to choose multiple payload sets, one per position (up to a maximum of 20). It iterates through each payload set individually, ensuring that every possible combination of payloads is tested.
