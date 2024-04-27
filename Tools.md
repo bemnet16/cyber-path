@@ -1,10 +1,15 @@
 ***ping*** - uses *ICMP(Internet Control Message Protocol)*.
-- It is used when we want to test whether a connection to a remote resource is possible.
+ - It is used when we want to test whether a connection to a remote resource is possible.
+
 ***Exiftool*** - shows the metadata of the given file.
+
 ***[Steghide](https://0xrick.github.io/lists/stego/#steghide)*** - is a steganography program that hides data in various kinds of image and audio files.
 - only supports these file formats : `JPEG, BMP, WAV and AU`.
+- 
 ***Volatility*** - is a free memory forensics tool developed and maintained by Volatility Foundation.
+  
 ***Splunk*** - it provides the ability to collect, analyse and correlate the network and machine logs in real-time.
+
 ***Burp Repeater*** - is a tool that enables you to modify and send an interesting HTTP or Web Socket message over and over.
 ***[ExploitDB](https://www.exploit-db.com/)*** - is an archive of exploits for the purpose of public security, and it explains what can be found on the database.
 **[NVD](https://nvd.nist.gov/vuln/search)** - National Vulnerability Database (NVD) is a database, maintained by NIST, that is fully synchronized with the MITRE CVE list.
