@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Complete beginner/cryptography/John The Ripper.md",
+                "file": "API penetration testing/02 Endpoint analysis.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssh",
+                "query": "nikto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 263.50418853759766
+    "width": 200
   },
   "right": {
     "id": "80ef18fa53523a05",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Complete beginner/cryptography/John The Ripper.md",
+                "file": "API penetration testing/02 Endpoint analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Complete beginner/cryptography/John The Ripper.md",
+                "file": "API penetration testing/02 Endpoint analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Complete beginner/cryptography/John The Ripper.md"
+                "file": "API penetration testing/02 Endpoint analysis.md"
               }
             }
           }
@@ -149,37 +148,37 @@
   },
   "active": "d13910e0b8a87cf7",
   "lastOpenFiles": [
-    "Complete beginner/Network Exploitation Basics/Network Services/FTP.md",
-    "Complete beginner/cryptography/Encryption - Crypto 101.md",
-    "Tools.md",
-    "Complete beginner/Network Exploitation Basics/nmap.md",
-    "Complete beginner/metasploit.md",
-    "Complete beginner/Network Exploitation Basics/Network Services/SMTP.md",
     "Complete beginner/web enumeration.md",
-    "API penetration testing/API Reconnaissance.md",
+    "API penetration testing/02 Endpoint analysis.md",
+    "API penetration testing/01 API Reconnaissance.md",
+    "API penetration testing/03 Authentication Attacks.md",
+    "Complete beginner/web-hacking fundamentals/burp suite.md",
+    "README.md",
+    "Complete beginner/Network Exploitation Basics/Network Services/SMB.md",
+    "Tools.md",
+    "Complete beginner/Network Exploitation Basics/Network Services/SMTP.md",
+    "Complete beginner/Network Exploitation Basics/Network Services/FTP.md",
+    "burp.md",
+    "Pre security/How the web works.md",
+    "Complete beginner/Network Exploitation Basics/nmap.md",
+    "Complete beginner/cryptography/John The Ripper.md",
+    "Complete beginner/cryptography/Encryption - Crypto 101.md",
+    "Complete beginner/cryptography/hashing.md",
+    "Complete beginner/metasploit.md",
     "().md",
     "API penetration testing/API",
     "API penetration testing",
     "Intro. cyber/Intro. to cyber security.md",
     "Complete beginner/web-hacking fundamentals/upload vulnerability.md",
-    "Complete beginner/web-hacking fundamentals/burp suite.md",
     "Complete beginner/Windows Exploitation Basics.md",
     "Complete beginner/web-hacking fundamentals/OWASP.md",
-    "Pre security/How the web works.md",
     "Complete beginner/Shells and Privilege Escalation/Common Linux Privesc.md",
     "Complete beginner/web-hacking fundamentals/Untitled.md",
     "Complete beginner/Network Exploitation Basics/Network Services/NFS.md",
     "Complete beginner/Network Exploitation Basics/Network Services/telnet.md",
-    "Complete beginner/Network Exploitation Basics/Network Services/SMB.md",
-    "Complete beginner/cryptography/John The Ripper.md",
-    "Untitled.md",
-    "Complete beginner/Shells and Privilege Escalation/what the shell.md",
     "Complete beginner/Shells and Privilege Escalation",
     "Complete beginner/Windows Exploitation Basics",
-    "Complete beginner/cryptography/hashing.md",
     "Complete beginner/cryptography",
-    "Complete beginner/Introductory researching.md",
-    "Complete beginner/Network Exploitation Basics/Network Services/MySQL.md",
     "Complete beginner/web-hacking fundamentals/Untitled",
     "Complete beginner/web-hacking fundamentals",
     "Complete beginner/Network Exploitation Basics/Network Services",

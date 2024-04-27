@@ -1,10 +1,10 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "cssTheme": "Dracula for Obsidian",
+  "cssTheme": "Dracula Official",
   "showViewHeader": true,
   "baseFontSizeAction": false,
   "monospaceFontFamily": "Bahnschrift",
   "textFontFamily": "",
-  "baseFontSize": 12
+  "baseFontSize": 16
 }
