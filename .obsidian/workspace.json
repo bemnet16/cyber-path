@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API penetration testing/04  Exploiting API Authorization.md",
+                "file": "API penetration testing/08 Injection attacks.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API penetration testing/04  Exploiting API Authorization.md",
+                "file": "API penetration testing/08 Injection attacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "API penetration testing/04  Exploiting API Authorization.md",
+                "file": "API penetration testing/08 Injection attacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API penetration testing/04  Exploiting API Authorization.md"
+                "file": "API penetration testing/08 Injection attacks.md"
               }
             }
           }
@@ -147,13 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d4e0e93369c910a6",
+  "active": "d13910e0b8a87cf7",
   "lastOpenFiles": [
-    "API penetration testing/03 Authentication Attacks.md",
+    "API penetration testing/07 Exploiting SSRF.md",
+    "API penetration testing/08 Injection attacks.md",
     "API penetration testing/02 Endpoint analysis.md",
+    "API penetration testing/01 API Reconnaissance.md",
+    "API penetration testing/06 Mass Assignment Attacks.md",
+    "API penetration testing/03 Authentication Attacks.md",
     "API penetration testing/04  Exploiting API Authorization.md",
     "Complete beginner/web enumeration.md",
-    "API penetration testing/01 API Reconnaissance.md",
     "Complete beginner/web-hacking fundamentals/burp suite.md",
     "README.md",
     "Complete beginner/Network Exploitation Basics/Network Services/SMB.md",
@@ -174,9 +176,6 @@
     "Complete beginner/web-hacking fundamentals/upload vulnerability.md",
     "Complete beginner/Windows Exploitation Basics.md",
     "Complete beginner/web-hacking fundamentals/OWASP.md",
-    "Complete beginner/Shells and Privilege Escalation/Common Linux Privesc.md",
-    "Complete beginner/web-hacking fundamentals/Untitled.md",
-    "Complete beginner/Network Exploitation Basics/Network Services/NFS.md",
     "Complete beginner/Shells and Privilege Escalation",
     "Complete beginner/Windows Exploitation Basics",
     "Complete beginner/cryptography",
