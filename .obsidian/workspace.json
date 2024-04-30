@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API penetration testing/08 Injection attacks.md",
+                "file": "API penetration testing/09 Evasive Maneuvers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API penetration testing/08 Injection attacks.md",
+                "file": "API penetration testing/09 Evasive Maneuvers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "API penetration testing/08 Injection attacks.md",
+                "file": "API penetration testing/09 Evasive Maneuvers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API penetration testing/08 Injection attacks.md"
+                "file": "API penetration testing/09 Evasive Maneuvers.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "d13910e0b8a87cf7",
   "lastOpenFiles": [
-    "API penetration testing/07 Exploiting SSRF.md",
     "API penetration testing/08 Injection attacks.md",
+    "API penetration testing/09 Evasive Maneuvers.md",
+    "API penetration testing/07 Exploiting SSRF.md",
     "API penetration testing/02 Endpoint analysis.md",
     "API penetration testing/01 API Reconnaissance.md",
     "API penetration testing/06 Mass Assignment Attacks.md",
@@ -175,7 +176,6 @@
     "Intro. cyber/Intro. to cyber security.md",
     "Complete beginner/web-hacking fundamentals/upload vulnerability.md",
     "Complete beginner/Windows Exploitation Basics.md",
-    "Complete beginner/web-hacking fundamentals/OWASP.md",
     "Complete beginner/Shells and Privilege Escalation",
     "Complete beginner/Windows Exploitation Basics",
     "Complete beginner/cryptography",
