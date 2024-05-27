@@ -9,7 +9,7 @@ It refers to the process of gathering information and understanding the characte
 
 In the context of API reconnaissance testing or security assessments, "passive" and "active" refer to different approaches and techniques used to gather information, analyse traffic, and identify potential vulnerabilities.
 #### Passive Reconnaissance
-It involves collecting information and analysing data without directly interacting with the target system or API. It focuses on gathering publicly available information and observing network traffic passively. The goal of passive reconnaissance is to gain insights into the target's infrastructure, configuration, and behaviour without triggering any alarms or alerts.
+It involves collecting information and analyzing data without directly interacting with the target system or API. It focuses on gathering publicly available information and observing network traffic passively. The goal of passive reconnaissance is to gain insights into the target's infrastructure, configuration, and behavior without triggering any alarms or alerts.
 ##### Techniques used in Passive Reconnaissance
 - DNS Analysis
 - Public Information Gathering

@@ -29,7 +29,7 @@ Continue to explore the target web application until there is nothing left to do
 Selecting **Save** will create a file called flows. We can use the "flows" file to create our own API documentation. Using a great tool called ==mitmproxy2swagger==, we will be able to transform our captured traffic into an Open API 3.0 YAML file that can be viewed in a browser and imported as a collection into *Postman*.
 
 First, run the following:
-`$sudo mitmproxy2swagger -i /Downloads/flows -o spec.yml -p [http://crapi.apisec.ai](http://crapi.apisec.ai/) -f flow`
+`$sudo mitmproxy2swagger -i [saved-file]-o ["filename".yml] -p [prefix-target] -f flow`
 
 ![](https://kajabi-storefronts-production.kajabi-cdn.com/kajabi-storefronts-production/site/2147573912/products/4TryEayCTsCoLdiBTsZS_mitmproxy2swaggerStep1.png)
 

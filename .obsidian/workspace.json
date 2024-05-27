@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "001c325275e2dc72",
+        "id": "fccd4d6fff3b1964",
         "type": "tabs",
         "children": [
           {
-            "id": "d13910e0b8a87cf7",
+            "id": "918616a14adaecb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API penetration testing/09 Evasive Maneuvers.md",
+                "file": "pentest project/zemen insurance.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "nosql",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "API penetration testing/09 Evasive Maneuvers.md",
+                "file": "pentest project/zemen insurance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "API penetration testing/09 Evasive Maneuvers.md",
+                "file": "pentest project/zemen insurance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "API penetration testing/09 Evasive Maneuvers.md"
+                "file": "pentest project/zemen insurance.md"
               }
             }
           }
@@ -146,19 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d13910e0b8a87cf7",
+  "active": "918616a14adaecb6",
   "lastOpenFiles": [
+    "pentest project/linked images/Pasted image 20240514045615.png",
+    "pentest project/zemen insurance.md",
+    "pentest project/linked images/Pasted image 20240508040300.png",
     "API penetration testing/08 Injection attacks.md",
+    "pentest project/Untitled.md",
+    "pentest project/linked images/Pasted image 20240514102512.png",
+    "pentest project/linked images/Pasted image 20240514101223.png",
+    "pentest project/linked images/Pasted image 20240514084533.png",
+    "pentest project/linked images/Pasted image 20240508095519.png",
+    "pentest project/linked images/Pasted image 20240514043501.png",
+    "Pasted image 20240514043456.png",
+    "pentest project/linked images/Pasted image 20240514043200.png",
+    "Complete beginner/cryptography/hashing.md",
+    "API penetration testing/04  Exploiting API Authorization.md",
+    "pentest project/linked images/Pasted image 20240508091638.png",
+    "API penetration testing/02 Endpoint analysis.md",
+    "API penetration testing/05 Testing for improper asset managements.md",
+    "API penetration testing/03 Authentication Attacks.md",
+    "README.md",
+    "pentest project/linked images",
+    "API penetration testing/01 API Reconnaissance.md",
+    "pentest project",
+    "API penetration testing/06 Mass Assignment Attacks.md",
     "API penetration testing/09 Evasive Maneuvers.md",
     "API penetration testing/07 Exploiting SSRF.md",
-    "API penetration testing/02 Endpoint analysis.md",
-    "API penetration testing/01 API Reconnaissance.md",
-    "API penetration testing/06 Mass Assignment Attacks.md",
-    "API penetration testing/03 Authentication Attacks.md",
-    "API penetration testing/04  Exploiting API Authorization.md",
     "Complete beginner/web enumeration.md",
     "Complete beginner/web-hacking fundamentals/burp suite.md",
-    "README.md",
     "Complete beginner/Network Exploitation Basics/Network Services/SMB.md",
     "Tools.md",
     "Complete beginner/Network Exploitation Basics/Network Services/SMTP.md",
@@ -168,23 +184,15 @@
     "Complete beginner/Network Exploitation Basics/nmap.md",
     "Complete beginner/cryptography/John The Ripper.md",
     "Complete beginner/cryptography/Encryption - Crypto 101.md",
-    "Complete beginner/cryptography/hashing.md",
     "Complete beginner/metasploit.md",
-    "().md",
     "API penetration testing/API",
     "API penetration testing",
-    "Intro. cyber/Intro. to cyber security.md",
-    "Complete beginner/web-hacking fundamentals/upload vulnerability.md",
-    "Complete beginner/Windows Exploitation Basics.md",
     "Complete beginner/Shells and Privilege Escalation",
     "Complete beginner/Windows Exploitation Basics",
     "Complete beginner/cryptography",
     "Complete beginner/web-hacking fundamentals/Untitled",
     "Complete beginner/web-hacking fundamentals",
     "Complete beginner/Network Exploitation Basics/Network Services",
-    "Pasted image 20240313102925.png",
-    "Complete beginner/Network Exploitation Basics",
-    "Intro. cyber(week 1)/Intro. defensive sec",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

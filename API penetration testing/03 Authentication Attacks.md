@@ -8,14 +8,14 @@ Classic authentication attacks include techniques that have been around for a wh
 - **Countermeasures**: Implement account lockout mechanisms, use strong and complex passwords, and employ rate-limiting to prevent brute force attacks.
 
   Brute-forcing an API’s authentication is not very different from any other brute-force attack, except you’ll send the request to an API endpoint, the payload will often be in JSON, and the authentication values may require base64 encoding.
-  
-  `Important items to note for API testing include the headers option (-H), hide responses (--hc, --hl, --hw, --hh), and POST body requests (-d). All of these will be useful when fuzzing APIs.`
 
 	there are suitable tools to perform the attack:
 	- ***Burp suite intruder*** 
 	- ***Wfuzz*** - is a powerful command-line tool used for web application brute-forcing and fuzzing.
 		- allows users to fuzz web applications by replacing parts of URLs, headers, parameters, and POST data with custom payloads (such as lists of common strings, numbers, or specific payloads for known vulnerabilities).
 		 e.g: `wfuzz -c -z file,wordlist.txt --hc 404 https://example.com/FUZZ`
+
+		 `Important items to note for API testing include the headers option (-H), hide responses (--hc, --hl, --hw, --hh), and POST body requests (-d). All of these will be useful when fuzzing APIs.`
 		
 ##### Password Spraying
 - Attackers attempt a small number of commonly used passwords against many accounts, aiming to avoid account *lockouts* and *detection*.
